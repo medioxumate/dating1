@@ -1,0 +1,24 @@
+/**
+ * Created in PhpStorm
+ * @author Brian Kiehn
+ * @date 1/15/2020
+ * @version 1.0
+ * styles.css
+ * GreenRiverDev
+ */
+
+body{
+    background-color: #7abaff;
+}
+
+.card-header {
+    background-color: #0069d9;
+}
+
+.card-body {
+    background-color: aliceblue;
+}
+
+.card-footer {
+    background-color: #7abaff;
+}

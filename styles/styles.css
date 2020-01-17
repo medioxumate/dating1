@@ -22,3 +22,7 @@ body{
 .card-footer {
     background-color: #7abaff;
 }
+
+.card {
+    border-color: #7abaff;
+}
